@@ -1,2 +1,2 @@
-# unconventionalcalculator.github.io
+# unconventional calculator
 basic calculator with html,css,js
